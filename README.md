@@ -1,7 +1,3 @@
-# numpy-basics
-A beginner-friendly collection of NumPy programs covering arrays, indexing, slicing, mathematical operations, and essential functions.
-
-
 # NumPy Basics
 
 This repository contains my NumPy practice notebook as part of my Python learning journey.
